@@ -39,7 +39,7 @@ Then, change the path in all the complie file, like tf_utils/tf_ops/sampling/tf_
 
 * Clone this repo
 ```
-git clone https://github.com/lixiang-ucas/D-FCN.git
+git clone https://github.com/lixiang-ucas/DANCE-NET.git
 
 ```
 ## Dataset
@@ -60,12 +60,12 @@ This code is heavily borrowed from [PointSIFT](https://github.com/MVIG-SJTU/poin
 
 If you find this useful in your research, please consider citing:
 
-  @article{wen2020directionally,
-  title={Directionally constrained fully convolutional neural network for airborne LiDAR point cloud classification},
-  author={Wen, Congcong and Yang, Lina and Li, Xiang and Peng, Ling and Chi, Tianhe},
+  @article{li2020dance,
+  title={DANCE-NET: Density-aware convolution networks with context encoding for airborne LiDAR point cloud classification},
+  author={Li, Xiang and Wang, Lingjing and Wang, Mingyang and Wen, Congcong and Fang, Yi},
   journal={ISPRS Journal of Photogrammetry and Remote Sensing},
-  volume={162},
-  pages={50--62},
+  volume={166},
+  pages={128--139},
   year={2020},
   publisher={Elsevier}
 }
