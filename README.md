@@ -53,7 +53,7 @@ python train.py
 
 
 ## Acknowledgements
-This code is heavily borrowed from [PointSIFT](https://github.com/MVIG-SJTU/pointSIFT)
+This code is heavily borrowed from [PointConv](https://github.com/DylanWusee/pointconv)
 
 
 ## Citation
