@@ -10,6 +10,8 @@ This is the source code for our paper **Density-Aware Convolutional Networks wit
 
 Paper link: https://arxiv.org/abs/1910.05909
 
+Our method achieves an overall accuracy of 83.9% and an average F1 score of 71.2% on ISPRS Vaihingen dataset. Note that we report the performance without using test time augmentation.
+
 Network Architecture
 --------------------
 The architecture of our proposed model is as follows
